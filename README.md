@@ -1,20 +1,34 @@
 <div align="center">
+``
+██    ██ ██     ██ ████ ██     ██ 
+███   ██ ██     ██  ██  ███   ███ 
+████  ██ ██     ██  ██  ████ ████ 
+██ ██ ██ ██     ██  ██  ██ ███ ██ 
+██  ████  ██   ██   ██  ██     ██  
+██   ███   ██ ██    ██  ██     ██ 
+██    ██    ███    ████ ██     ██ 
 
-    ███╗   ██╗███████╗ ██████╗ ██╗   ██╗██╗███╗   ███╗
-    ████╗  ██║██╔════╝██╔═══██╗██║   ██║██║████╗ ████║
-    ██╔██╗ ██║█████╗  ██║   ██║██║   ██║██║██╔████╔██║
-    ██║╚██╗██║██╔══╝  ██║   ██║╚██╗ ██╔╝██║██║╚██╔╝██║
-    ██║ ╚████║███████╗╚██████╔╝ ╚████╔╝ ██║██║ ╚═╝ ██║
-    ╚═╝  ╚═══╝╚══════╝ ╚═════╝   ╚═══╝  ╚═╝╚═╝     ╚═╝
+████████   ███████  ████████ 
+██     ██ ██     ██    ██    
+██     ██ ██     ██    ██ 
+██     ██ ██     ██    ██    
+██     ██ ██     ██    ██    
+██     ██ ██     ██    ██    
+████████   ███████     ██
 
+████████ ████ ██       ████████  ██████  
+██        ██  ██       ██       ██    ██ 
+██        ██  ██       ██       ██       
+██████    ██  ██       ██████    ██████  
+██        ██  ██       ██             ██ 
+██        ██  ██       ██       ██    ██ 
+██       ████ ████████ ████████  ██████  
 
-# NeoVim Configuration
-
+``
 *A beautiful, modern, and extensible NeoVim setup for productive coding*
 
 [![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
 [![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
 
@@ -140,10 +154,3 @@ return {
 ## 🤝 Contributing
 
 Feel free to fork this repository and customize it to your needs. If you have suggestions feel free to submit a pull request or message me directly!
-
----
-
-## 📝 License
-
-This configuration is licensed under the **MIT License**. See [LICENSE](LICENSE) file for details.
-
