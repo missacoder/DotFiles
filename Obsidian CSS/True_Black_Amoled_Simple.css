@@ -1,0 +1,61 @@
+.theme-dark {
+  --background-primary: #000000;
+  --background-primary-alt:#0a0a0a; /*this setting changes the background often used by code blocks, scripts, etc.*/
+  --background-secondary: #000000;
+  --background-secondary-alt: #000000;
+  --background-modifier-form-field: #000000;
+  --interactive-normal: #000000;
+  --tab-container-background: #000000;
+  --tab-background-active: #000000;
+  --tab-background-inactive: #000000;
+  --tag-background: #000000;
+}
+.theme-dark,
+.theme-dark .workspace-leaf,
+.theme-dark .workspace-sidedock-vault-profile,
+.theme-dark .workspace-tab-header-container,
+.theme-dark .view-content,
+ {
+  background-color: var(--background-primary);
+}
+
+.theme-dark .workspace-split.mod-root,
+.theme-dark .workspace-split.mod-vertical > * > .workspace-leaf-resize-handle,
+.theme-dark .workspace-split.mod-horizontal > * > .workspace-leaf-resize-handle {
+  background-color: #000000;
+}
+
+.theme-dark .callout {
+  background: #000000;
+}
+
+.theme-dark .callout .callout-title,
+.theme-dark .callout .callout-content,
+.theme-dark .markdown-embed,
+.theme-dark .internal-embed,
+.theme-dark .frontmatter-container,
+.theme-dark .metadata-container,
+.theme-dark .metadata-properties,
+.theme-dark .image-embed,
+.theme-dark .workspace-leaf-content[data-type="markdown"] .view-content {
+  background-color: #000000;
+}
+.theme-dark .search-result-file-match,
+.theme-dark .suggestion-item,
+.theme-dark .menu,
+.theme-dark .modal,
+.theme-dark .popover,
+.theme-dark .prompt,
+.theme-dark .dropdown,
+.theme-dark input:not([type="range"]),
+.theme-dark textarea {
+  background-color: #000000;
+}
+
+.theme-dark .status-bar,
+.theme-dark .titlebar,
+.theme-dark .workspace-ribbon,
+.theme-dark .side-dock-actions,
+.theme-dark .view-header {
+  background-color: #000000;
+}
